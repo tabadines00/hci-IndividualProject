@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/hci-IndividualProject/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/hci-IndividualProject/static/js/main.b8f46a91.chunk.js",
-    "main.js.map": "/hci-IndividualProject/static/js/main.b8f46a91.chunk.js.map",
-    "runtime-main.js": "/hci-IndividualProject/static/js/runtime-main.3128f416.js",
-    "runtime-main.js.map": "/hci-IndividualProject/static/js/runtime-main.3128f416.js.map",
-    "static/js/2.29b655fb.chunk.js": "/hci-IndividualProject/static/js/2.29b655fb.chunk.js",
-    "static/js/2.29b655fb.chunk.js.map": "/hci-IndividualProject/static/js/2.29b655fb.chunk.js.map",
-    "static/js/3.7fd7af66.chunk.js": "/hci-IndividualProject/static/js/3.7fd7af66.chunk.js",
-    "static/js/3.7fd7af66.chunk.js.map": "/hci-IndividualProject/static/js/3.7fd7af66.chunk.js.map",
+    "main.css": "/hci-IndividualProject/static/css/main.0fd94b86.chunk.css",
+    "main.js": "/hci-IndividualProject/static/js/main.5d19062e.chunk.js",
+    "main.js.map": "/hci-IndividualProject/static/js/main.5d19062e.chunk.js.map",
+    "runtime-main.js": "/hci-IndividualProject/static/js/runtime-main.c42b3b27.js",
+    "runtime-main.js.map": "/hci-IndividualProject/static/js/runtime-main.c42b3b27.js.map",
+    "static/css/2.383c0125.chunk.css": "/hci-IndividualProject/static/css/2.383c0125.chunk.css",
+    "static/js/2.1a182a2e.chunk.js": "/hci-IndividualProject/static/js/2.1a182a2e.chunk.js",
+    "static/js/2.1a182a2e.chunk.js.map": "/hci-IndividualProject/static/js/2.1a182a2e.chunk.js.map",
+    "static/js/3.a20069f5.chunk.js": "/hci-IndividualProject/static/js/3.a20069f5.chunk.js",
+    "static/js/3.a20069f5.chunk.js.map": "/hci-IndividualProject/static/js/3.a20069f5.chunk.js.map",
     "index.html": "/hci-IndividualProject/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/hci-IndividualProject/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.29b655fb.chunk.js.LICENSE.txt": "/hci-IndividualProject/static/js/2.29b655fb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hci-IndividualProject/static/media/logo.6ce24c58.svg"
+    "static/css/2.383c0125.chunk.css.map": "/hci-IndividualProject/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.0fd94b86.chunk.css.map": "/hci-IndividualProject/static/css/main.0fd94b86.chunk.css.map",
+    "static/js/2.1a182a2e.chunk.js.LICENSE.txt": "/hci-IndividualProject/static/js/2.1a182a2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3128f416.js",
-    "static/js/2.29b655fb.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b8f46a91.chunk.js"
+    "static/js/runtime-main.c42b3b27.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.1a182a2e.chunk.js",
+    "static/css/main.0fd94b86.chunk.css",
+    "static/js/main.5d19062e.chunk.js"
   ]
 }
