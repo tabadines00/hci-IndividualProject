@@ -1,3 +1,17 @@
 .center {
-  margin: 0 20px;
+  margin: 20px 20px;
+}
+
+.App {
+  background-color: white;
+}
+
+.header {
+  background-color: darkblue;
+  color: white;
+  padding: 20px;
+}
+
+.inv {
+  color: darkred;
 }
